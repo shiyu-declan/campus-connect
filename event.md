@@ -2,7 +2,7 @@
 
 Event date: To be confirmed.
 Venue: To be confirmed.
-Organisers: To be confirmed.
+Organisers: Member 4
 
 ## Purpose
 
