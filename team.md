@@ -3,6 +3,6 @@
 | Member | Name | GitHub username | Responsibility |
 | --- | --- | --- | --- |
 | 1 | Declan Lin | shiyu-declan | Overview |
-| 2 | Name | Username | Programme |
+| 2 | Su Yuzhen | YuzhenN7 | Programme |
 | 3 | Name | Username | Publicity |
 | 4 | Jeremiah Tee | Username | Logistics |
