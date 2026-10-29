@@ -4,5 +4,5 @@
 | --- | --- | --- | --- |
 | 1 | Declan Lin | shiyu-declan | Overview |
 | 2 | Name | Username | Programme |
-| 3 | Name | Username | Publicity |
+| 3 | Wei Ye | HuiWeiYe | Publicity |
 | 4 | Name | Username | Logistics |
