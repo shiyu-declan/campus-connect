@@ -13,3 +13,11 @@
 3. No specific improvements made from feedback due to none given. Improvements to Git management was made from learning this however.
 4. I resolved an issue where I merged the main with my branch wrongly and figured out how to quit the merging process
 5. I would like to know more about branches in Git as it seems extremely useful from preventing tangling of other member's codes and conflicts.
+
+## Reflection - Jeremiah Tee
+One Git task you can now complete independently.
+    creating pull request
+One conflict you resolved and how you decided the final content.
+    The final merge conflict we all decided together on which version of the file to keep and push
+One Git skill you would like to practise further.
+    Dealingwith merge conflicts properly
